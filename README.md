@@ -1,0 +1,1 @@
+Replaces "will of the people" with "tyranny of the masses" in big, red letters.
