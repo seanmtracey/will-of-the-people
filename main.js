@@ -1,4 +1,4 @@
-var elements = document.body.querySelectorAll('*');
+var elements = document.body.querySelectorAll('span, a, p, h1, h2, h3, h4, h5, h6');
 
 elements.forEach(function(element){
 
